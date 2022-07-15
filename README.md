@@ -95,9 +95,9 @@ ReadFirst is the best site for readers and book lovers. Our mission is to help p
 
 - __Validation Tecting__
     - HTML and CSS 
-        - No errors or warnings were returned in all pages validation by W3C validator - Can be checked in - [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fzahra-raha.github.io%2Fread-first)
+        - No errors or warnings were returned in all pages validation by W3C validator - Can be checked in - [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fzahra-raha.github.io%2Fread-first-sec)
     - HTML and CSS in Quiz Page
-        - No errors or warnings were found when passing through the validation by W3C validator - Can be checked in - [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fzahra-raha.github.io%2Fread-first%2Fquiz.html)
+        - No errors or warnings were found when passing through the validation by W3C validator - Can be checked in - [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fzahra-raha.github.io%2Fread-first-sec%2Fquiz.html)
 ## Unfixed Bugs
     - Hero image in home page is not fully responsive.
 
@@ -110,7 +110,7 @@ ReadFirst is the best site for readers and book lovers. Our mission is to help p
   - From the source section of GitHub Pages drop-down menu, select the main Branch
   - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://zahra-raha.github.io/read-first/
+The live link can be found here - https://zahra-raha.github.io/read-first-sec/
 
 
 ## Credits
